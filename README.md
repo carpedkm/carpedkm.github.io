@@ -1,4 +1,3 @@
-# carpedkm.github.io
+## title: [Daneul Kim]
 
-title: [Daneul Kim]
-description: [Curriculum Vitae]
+## description: [Curriculum Vitae]
