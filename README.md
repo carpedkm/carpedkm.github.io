@@ -1,3 +1,8 @@
+theme: jekyll-theme-minimal
+markdown: kramdown
+title: Daneul Kim
+description: Curriculum Vitae
+
 # About
 Hi! I am senior year B.S. Student at Gwangju Institute of Science and Technology (GIST), South Korea, advised by Jonghyun Choi at Yonsei University, Seoul.
 Currently, I am focused on multi-modal understanding tasks of vision and language. 
