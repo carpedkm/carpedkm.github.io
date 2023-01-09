@@ -22,6 +22,10 @@ GPA: 4.24 / 4.5
 
 ---
 
+# Works
+## Yonsei University, Seoul
+#### (Aug. 2022 - Present) Undergraduate Researcher (Advisor: Jonghyun Choi)
+
 # Honors and Awards
 ## Presidential Science Scholarship
 #### (Mar. 2021 - Present) 
