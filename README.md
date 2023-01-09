@@ -6,5 +6,5 @@ Furthermore, I am also interested in generation models based on transformers and
 *I am actively looking for M.S. position for Fall 2023.*
 
 # Education
-GIST <div align='"right">Mar. 2019 - Present</div>
-B.S. Student (Advisor: Jeany Son) <div align='"right">GPA: 4.24 / 4.5</div>
+GIST                                        Mar. 2019 - Present
+B.S. Student (Advisor: Jeany Son)               GPA: 4.24 / 4.5
