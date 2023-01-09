@@ -6,7 +6,7 @@ Furthermore, I am also interested in generation models based on transformers and
 **I am actively looking for M.S. position for Fall 2023.**
 
 # Education
-### GIST (Gwangju Institute of Science and Technology)
+### Gwangju Institute of Science and Technology
 #### (Mar. 2019 - Present) B.S. Student (Advisor: Jeany Son)
 GPA: 4.24 / 4.5
 
@@ -14,8 +14,8 @@ GPA: 4.24 / 4.5
 #### (Jun. 2021 - Dec. 2021) Exchange Student
 
 
-### HAFS (Hankuk Academy of Foreign Studies)
-#### (Mar. 2014 - Feb. 2017) Natural Science Courses
+### Hankuk Academy of Foreign Studies
+#### (Mar. 2014 - Feb. 2017) Natural Science Course
 
 
 # Honors and Awards
