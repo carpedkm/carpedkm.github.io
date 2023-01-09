@@ -1,5 +1,5 @@
 # About
-Hi! I am senior year B.S. Student at Gwangju Institute of Science and Technology (GIST), South Korea, advised by Jonghyun Choi at Yonsei University, Seoul.
+Hi! I am a senior year B.S. Student at Gwangju Institute of Science and Technology (GIST), South Korea, advised by Jonghyun Choi at Yonsei University, Seoul.
 Currently, I am focused on multi-modal understanding tasks of vision and language. 
 Specifically I am interested in video understanding with tasks like (1) Video Corpus Moment Retrieval, (2) Natural Language Video Localization, (3) Temporal Action Localization.
 Furthermore, I am also interested in generation models based on transformers and diffusion models.
