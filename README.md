@@ -40,6 +40,6 @@ $24,000 scholarship for Exchange Program at University of California, Berkeley
 ---
 
 # Publication
-#### Understanding Narrative Flows in Paragraph for Story Visualization
+#### A Paper on Story Visualization
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
-(Under review)
+(CVPR 23, under review)
