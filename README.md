@@ -31,11 +31,11 @@ GPA: 4.24 / 4.5
 # Honors and Awards
 ## Presidential Science Scholarship
 #### (Mar. 2021 - Present) 
-Full tuition and living expenses
+Full tuition and stipend of $5,000 per year. Around 150 students are selected nationally.
 
 ## Scholarship for Study Abroad Program
 #### (Jun. 2021 - Dec. 2021)
-$24,000 scholarship for Exchange Program at University of California, Berkeley
+Full support of expenses with stipend of $24,000 for Exchange Program at University of California, Berkeley
 
 ---
 
