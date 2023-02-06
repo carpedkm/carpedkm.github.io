@@ -26,8 +26,10 @@ GPA: 4.24 / 4.5
 ## Under supervision of Jonghyun Choi
 #### Vision and Learning Lab @ Yonsei University, Seoul
 - (Jan. 2022 - Present) Undergraduate Researcher
+- Worked on video-text problems and generative models.
 #### Computer Vision Lab @ GIST, Gwangju
 - (Jun. 2020 - Dec. 2021) Undergraduate Researcher
+-  Worked on video understanding problems and image segmentation on LGG.
 
 ---
 
