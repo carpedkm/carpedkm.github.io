@@ -23,7 +23,7 @@ GPA: 4.24 / 4.5
 ---
 
 # Works
-## Under supervision of Jonghyun Choi
+## Under supervision of [Jonghyun Choi](https://ppolon.github.io/)
 #### Vision and Learning Lab @ Yonsei University, Seoul
 - (Jan. 2022 - Present) Undergraduate Researcher
 - Worked on video-text problems and generative models.
