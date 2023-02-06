@@ -38,7 +38,7 @@ GPA: 4.24 / 4.5
 #### (Mar. 2021 - Present) 
 Full tuition and stipend of $5,000 per year. Around 150 students are selected nationally.
 
-## Scholarship for Study Abroad Program
+## Scholarship for [Study Abroad Program](https://ipa.gist.ac.kr/ipa/html/sub04/040202.html)
 #### (Jun. 2021 - Dec. 2021)
 Full support of expenses with stipend of $24,000 for Exchange Program at University of California, Berkeley
 
