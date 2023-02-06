@@ -9,7 +9,7 @@ Furthermore, I am also interested in generation models based on transformers and
 
 # Education
 ## Gwangju Institute of Science and Technology
-#### (Mar. 2019 - Present) B.S. Student (Advisor: Jeany Son)
+#### (Mar. 2019 - Present) B.S. Student (Advisor: [Jeany Son](https://jeanyson.github.io/))
 GPA: 4.24 / 4.5
 
 
@@ -34,7 +34,7 @@ GPA: 4.24 / 4.5
 ---
 
 # Honors and Awards
-## Presidential Science Scholarship
+## [Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01)
 #### (Mar. 2021 - Present) 
 Full tuition and stipend of $5,000 per year. Around 150 students are selected nationally.
 
