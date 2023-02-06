@@ -23,8 +23,11 @@ GPA: 4.24 / 4.5
 ---
 
 # Works
-## Yonsei University, Seoul
-#### (Aug. 2022 - Present) Undergraduate Researcher (Advisor: Jonghyun Choi)
+## Under supervision of Jonghyun Choi
+#### Vision and Learning Lab @ Yonsei University, Seoul
+- (Jan. 2022 - Present) Undergraduate Researcher
+#### Computer Vision Lab @ GIST, Gwangju
+- (Jun. 2020 - Dec. 2021) Undergraduate Researcher
 
 ---
 
