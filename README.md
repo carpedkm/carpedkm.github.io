@@ -1,5 +1,5 @@
 # About
-Hi! I am a senior year B.S. Student at Gwangju Institute of Science and Technology (GIST), South Korea, advised by Jonghyun Choi at Yonsei University, Seoul.
+Hi! I am a senior year B.S. Student at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, advised by [Jonghyun Choi](https://ppolon.github.io) at Yonsei University, Seoul.
 Currently, I am focused on multi-modal understanding tasks of vision and language. 
 Specifically I am interested in video understanding with tasks like (1) Video Corpus Moment Retrieval, (2) Natural Language Video Localization, (3) Temporal Action Localization.
 Furthermore, I am also interested in generation models based on transformers and diffusion models.
@@ -24,7 +24,7 @@ GPA: 4.24 / 4.5
 
 # Works
 ## Under supervision of [Jonghyun Choi](https://ppolon.github.io/)
-#### Vision and Learning Lab @ Yonsei University, Seoul
+#### [Vision and Learning Lab](https://yonseivnl.github.io) @ Yonsei University, Seoul
 - (Jan. 2022 - Present) Undergraduate Researcher
 - Worked on video-text problems and generative models.
 
