@@ -1,7 +1,7 @@
 # About
 Hi! I am a senior year B.S. Student at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, advised by [Jonghyun Choi](https://ppolon.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and co-advised by [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr).
 Currently, I am focused on multi-modal understanding tasks of vision and language. 
-Specifically I am interested in video understanding with tasks like (1) Video Corpus Moment Retrieval, (2) Natural Language Video Localization, (3) Temporal Action Localization.
+Specifically I am interested in language and video understanding with tasks like (1) Video Corpus Moment Retrieval, (2) Natural Language Video Localization, (3) Temporal Action Localization.
 Furthermore, I am also interested in generation models based on transformers and diffusion models.
 **I am actively looking for M.S. or Ph.D position for Fall 2023.**
 
