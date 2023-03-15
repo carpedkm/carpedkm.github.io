@@ -46,6 +46,6 @@ Computer Vision Lab @ GIST, Gwangju
 ---
 
 # Publication
-#### A Paper on Story Visualization
+#### A Paper on Story Visualization [Double blinded review]
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
-(CVPR 23, under review)
+(ICCV 23, under review)
