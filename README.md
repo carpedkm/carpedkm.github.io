@@ -71,4 +71,4 @@ Daneul Kim, Younghun Kim, Jonghyun Choi
 Daneul Kim, Younghun Kim, Jonghyun Choi
 (KSC 2020, published)
 
-- \* denotes equal contribution
+\* denotes equal contribution
