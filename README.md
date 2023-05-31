@@ -56,7 +56,7 @@ Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang,
 (ICCV 23, under review)
 
 #### Utilizing External Knowledge in Natural Language Video Localization
-Daneul Kim, Daechul Ahn, Jonghyun Choi
+<ins>Daneul Kim</ins>, Daechul Ahn, Jonghyun Choi
 (Journal of KIISE 2022, published)
 
 #### 자연어 기반 비디오 탐색 딥러닝 알고리즘을 위한 데이터 증강 기법
@@ -71,4 +71,4 @@ Daneul Kim, Younghun Kim, Jonghyun Choi
 Daneul Kim, Younghun Kim, Jonghyun Choi
 (KSC 2020, published)
 
-- "*" denotes equal contribution
+- \* denotes equal contribution
