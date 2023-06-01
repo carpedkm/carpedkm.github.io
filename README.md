@@ -54,7 +54,9 @@ Daechul Ahn\*, Yura Choi\*, <ins>Daneul Kim</ins>, Jonghyun Choi
 #### A Paper on Story Visualization [Double blinded review]
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
 (ICCV 23, under review)
+
 ---
+
 #### Utilizing External Knowledge in Natural Language Video Localization
 <ins>Daneul Kim</ins>, Daechul Ahn, Jonghyun Choi
 (Journal of KIISE 2022, published)
