@@ -24,20 +24,22 @@ GPA: 4.24 / 4.5
 ---
 
 # Works
-[Vision and Learning Lab](https://yonseivnl.github.io) @ Yonsei University, Seoul
+#### [Vision and Learning Lab](https://yonseivnl.github.io) @ Yonsei University, Seoul
 - (Jan. 2022 - Present) Research Intern
 - Working on video-text problems and generative models.
 - Advisor: [Jonghyun Choi](https://ppolon.github.io/)
 
-[Visual Recognition and Learning Lab](https://jeanyson.github.io/lab/) @ GIST, Gwangju
+#### [Visual Recognition and Learning Lab](https://jeanyson.github.io/lab/) @ GIST, Gwangju
 - (Nov. 2022 - Present) Research Intern
 - Working on video understanding problems
 - Advisor: [Jeany Son](https://jeanyson.github.io/)
 
-Computer Vision Lab @ GIST, Gwangju
+#### Computer Vision Lab @ GIST, Gwangju
 - (Jun. 2020 - Dec. 2021) Research Intern
 -  Worked on video understanding problems and image segmentation on LGG.
 - Advisor: [Jonghyun Choi](https://ppolon.github.io/)
+
+
 ---
 
 # Honors and Awards
