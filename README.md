@@ -31,7 +31,7 @@ GPA: 4.24 / 4.5
 
 [Visual Recognition and Learning Lab](https://jeanyson.github.io/lab/) @ GIST, Gwangju
 - (Nov. 2022 - Present) Research Intern
-- Worked on video understanding problems
+- Working on video understanding problems
 - Advisor: [Jeany Son](https://jeanyson.github.io/)
 
 Computer Vision Lab @ GIST, Gwangju
