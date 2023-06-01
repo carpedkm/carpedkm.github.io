@@ -47,16 +47,14 @@ Computer Vision Lab @ GIST, Gwangju
 ---
 
 # Publication
-### International Conferences and Journals
 #### A Paper on Video Corpus Moment Retrieval [Double blinded review]
-Daechul Ahn*, Yura Choi*, <ins>Daneul Kim</ins>, Jonghyun Choi
+Daechul Ahn\*, Yura Choi\*, <ins>Daneul Kim</ins>, Jonghyun Choi
 (NeurIPS 23, under review)
 
 #### A Paper on Story Visualization [Double blinded review]
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
 (ICCV 23, under review)
-
-### Domestic Conferences and Journals
+---
 #### Utilizing External Knowledge in Natural Language Video Localization
 <ins>Daneul Kim</ins>, Daechul Ahn, Jonghyun Choi
 (Journal of KIISE 2022, published)
