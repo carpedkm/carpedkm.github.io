@@ -54,6 +54,9 @@ GPA: 4.24 / 4.5
 ---
 
 # Publication
+
+### International
+
 #### A Paper on Video Corpus Moment Retrieval [Double blinded review]
 Daechul Ahn\*, Yura Choi\*, <ins>Daneul Kim</ins>, Jonghyun Choi
 (NeurIPS 23, under review)
@@ -64,6 +67,8 @@ Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang,
 
 ---
 
+### Domestic
+
 #### Utilizing External Knowledge in Natural Language Video Localization
 <ins>Daneul Kim</ins>, Daechul Ahn, Jonghyun Choi
 (Journal of KIISE 2022, published)
@@ -73,7 +78,7 @@ Daechul Ahn, <ins>Daneul Kim</ins>, Jonghyun Choi
 (KIMST 2021, published)
 
 #### 다양한 기계 학습 기법을 활용한 심근경색 및 뇌졸중의 사례 기반 추론 분석
-<ins<Daneul Kim</ins>, Younghun Kim, Jonghyun Choi
+<ins>Daneul Kim</ins>, Younghun Kim, Jonghyun Choi
 (KSC 2020, published)
 
 #### Brain MRI Semantic Segmentation Label 품질에 다른 성능의 민감도
