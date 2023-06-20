@@ -1,89 +1,93 @@
-[LinkedIn Profile](https://www.linkedin.com/in/carpedkm/)
-# About
-Hi! I am a senior year B.S. Student at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, advised by [Jonghyun Choi](https://ppolon.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and co-advised by [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr).
-Currently, I am focused on multi-modal understanding tasks of vision and language. 
-Specifically I am interested in language and video understanding with tasks like (1) Video Corpus Moment Retrieval, (2) Natural Language Video Localization, (3) Temporal Action Localization.
-Furthermore, I am also interested in generation models based on transformers and diffusion models.
+# Jekyll Resume Theme
 
-I will be a M.S. student at the [Dept. of Computer Science and Engineering](https://cse.snu.ac.kr/) in [Interdisiplinary Program in Artificial Intelligence at Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023.
+Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
----
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
 
-# Education
-#### Gwangju Institute of Science and Technology
-- (Mar. 2019 - Present) B.S. Student (Advisor: [Jeany Son](https://jeanyson.github.io/))
-GPA: 4.24 / 4.5
+# Stack
 
+![](https://img.shields.io/badge/jekyll-✓-blue.svg)
+![](https://img.shields.io/badge/html5-✓-blue.svg)
+![](https://img.shields.io/badge/sass-✓-blue.svg)
+![](https://img.shields.io/badge/sweet--scroll-✓-blue.svg)
+![](https://img.shields.io/badge/particle--js-✓-blue.svg)
+![](https://img.shields.io/badge/font--awesome-✓-blue.svg)
+![](https://img.shields.io/badge/devicon-✓-blue.svg)
+![](https://img.shields.io/badge/gulp-✓-blue.svg)
 
-#### University of California, Berkeley
-- (Jun. 2021 - Dec. 2021) Exchange Student
+***
 
+<h3 align="center">Please help this repo with a :star: if you find it useful! :blush:</h3>
 
-#### Hankuk Academy of Foreign Studies
-- (Mar. 2014 - Feb. 2017) Natural Science Course
+***
 
----
+# Screenshot
 
-# Works
-#### [Vision and Learning Lab](https://yonseivnl.github.io) @ Yonsei University, Seoul
-- (Jan. 2022 - Present) Research Intern
-- Working on video-text problems and generative models.
-- Advisor: [Jonghyun Choi](https://ppolon.github.io/)
+<p align="center">
+  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+</p>
 
-#### [Visual Recognition and Learning Lab](https://jeanyson.github.io/lab/) @ GIST, Gwangju
-- (Nov. 2022 - Present) Research Intern
-- Working on video understanding problems
-- Advisor: [Jeany Son](https://jeanyson.github.io/)
+# Quick Setup
 
-#### Computer Vision Lab @ GIST, Gwangju
-- (Jun. 2020 - Dec. 2021) Research Intern
--  Worked on video understanding problems and image segmentation on LGG.
-- Advisor: [Jonghyun Choi](https://ppolon.github.io/)
+1. Install Jekyll: `gem install jekyll bundler`
+2. Fork this repository and clone your fork
+3. Edit `_config.yml` to personalize your site
 
+# Settings
 
----
+You have to fill some informations on `_config.yml` to customize your site:
 
-# Honors and Awards
-#### [Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01)
-(Mar. 2021 - Present) 
-- Full tuition and stipend of $5,000 per year. Around 150 students are selected nationally.
+## Site settings
+```yml
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
+```
 
-#### [Scholarship for Study Abroad Program](https://ipa.gist.ac.kr/ipa/html/sub04/040202.html)
-(Jun. 2021 - Dec. 2021)
-- Full support of expenses with stipend of $24,000 for Exchange Program at University of California, Berkeley
+## User settings
+```yml
+username: Lorem Ipsum
+user_description: Software Engineer at Lorem Ipsum Dolor
+user_title: Mauricio Urraco
+email: mauriurraco@gmail.com
+```
 
----
+> Don't forget to change your URL before you deploy your site!
 
-# Publication
+# Color and Particle Customization
 
-### International
+- Color Customization
+  - Edit the `.sass` variables
+- Particle Customization
+  - Edit the json data in particle function in `app.js`
+  - Refer to `Particle.js` for help
 
-#### A Paper on Video Corpus Moment Retrieval [Double blinded review]
-Daechul Ahn\*, Yura Choi\*, <ins>Daneul Kim</ins>, Jonghyun Choi
-(NeurIPS 23, under review)
+# Content
 
-#### A Paper on Story Visualization [Double blinded review]
-Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
-(ICCV 23, under review)
+You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
 
----
+```html
+<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
+  <i class="icon fa fa-github-alt" aria-hidden="true"></i>
+</a>
+```
 
-### Domestic
+# Running locally
 
-#### Utilizing External Knowledge in Natural Language Video Localization
-<ins>Daneul Kim</ins>, Daechul Ahn, Jonghyun Choi
-(Journal of KIISE 2022, published)
+In order to compile the assets and run `Jekyll` locally you need to follow those steps:
 
-#### 자연어 기반 비디오 탐색 딥러닝 알고리즘을 위한 데이터 증강 기법
-Daechul Ahn, <ins>Daneul Kim</ins>, Jonghyun Choi
-(KIMST 2021, published)
+1. Install Jekyll
+2. Run `bundle install`
+3. Run `bundle exec jekyll build`
+4. Start and http-server in the folder `_site`
 
-#### 다양한 기계 학습 기법을 활용한 심근경색 및 뇌졸중의 사례 기반 추론 분석
-<ins>Daneul Kim</ins>, Younghun Kim, Jonghyun Choi
-(KSC 2020, published)
+# Contribution
 
-#### Brain MRI Semantic Segmentation Label 품질에 다른 성능의 민감도
-<ins>Daneul Kim</ins>, Younghun Kim, Jonghyun Choi
-(KSC 2020, published)
+- Report issues
+- Open pull request with improvements
+- Spread the word
+- Reach out to me directly at <mauriurraco@gmail.com>
 
-\* denotes equal contribution
+# Credits
+
+- [Nathan Randecker](https://github.com/nrandecker)
