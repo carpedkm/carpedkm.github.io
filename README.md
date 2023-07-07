@@ -5,14 +5,14 @@ Currently, I am focused on multi-modal understanding tasks of vision and languag
 Specifically I am interested in language and video understanding with tasks like (1) Video Corpus Moment Retrieval, (2) Natural Language Video Localization, (3) Temporal Action Localization.
 Furthermore, I am also interested in generation models based on transformers and diffusion models.
 
-I will be a M.S. student at the [Dept. of Computer Science and Engineering](https://cse.snu.ac.kr/) in [Interdisiplinary Program in Artificial Intelligence at Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023.
+I will be a M.S. student at the AI Graduate School in [Interdisiplinary Program in Artificial Intelligence at Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023.
 
 ---
 
 # Education
 #### Gwangju Institute of Science and Technology
 - (Mar. 2019 - Present) B.S. Student (Advisor: [Jeany Son](https://jeanyson.github.io/))
-GPA: 4.24 / 4.5
+GPA: 4.23 / 4.5
 
 
 #### University of California, Berkeley
