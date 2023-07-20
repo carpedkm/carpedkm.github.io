@@ -10,7 +10,7 @@ I will be a M.S. student at the AI Graduate School in [Interdisiplinary Program 
 ---
 
 # News
-#### <ins>One paper has been accepted to [ICCV 2023, Paris](https://iccv2023.thecvf.com/)!</ins>
+#### <ins>A paper about generative model has been accepted to [ICCV 2023, Paris](https://iccv2023.thecvf.com/)!</ins>
 
 # Education
 #### Seoul National University
