@@ -9,9 +9,15 @@ I will be a M.S. student at the AI Graduate School in [Interdisiplinary Program 
 
 ---
 
+# News
+#### <ins>One paper has been accepted to [ICCV 2023, Paris](https://iccv2023.thecvf.com/)!</ins>
+
 # Education
+#### Seoul National University
+- (From Sep. 2023) M.S. Student (Advisor: [Jaesik Park](https://jaesik.info/))
+
 #### Gwangju Institute of Science and Technology
-- (Mar. 2019 - Present) B.S. Student (Advisor: [Jeany Son](https://jeanyson.github.io/))
+- (Mar. 2019 - Aug. 2023) B.S. Student (Advisor: [Jeany Son](https://jeanyson.github.io/))
 GPA: 4.23 / 4.5
 
 
