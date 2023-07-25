@@ -2,7 +2,7 @@
 # About
 Hi! I am a senior year B.S. Student at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, advised by [Jonghyun Choi](https://ppolon.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and co-advised by [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr).
 Currently, I am focused on multi-modal understanding tasks of vision and language. 
-Specifically I am currently working on (1) generative models with transformers for image generation, (2) video retrieval model with language query amd (3) online video understanding.
+Specifically I am currently working on (1) generative models with transformers for image generation, (2) video retrieval model with language query, and (3) online video understanding.
 Furthermore, I am interested in 3D vision such as radiance field and also eager to study more on LLM based video understanding!
 
 I will be a M.S. student at the AI Graduate School in [Interdisiplinary Program in Artificial Intelligence at Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023.
