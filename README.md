@@ -2,8 +2,8 @@
 # About
 Hi! I am a senior year B.S. Student at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, advised by [Jonghyun Choi](https://ppolon.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and co-advised by [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr).
 Currently, I am focused on multi-modal understanding tasks of vision and language. 
-Specifically I am interested in multi-modal understanding in generative models and video understanding.
-Also, I am also interested to study further in radience fields with 3D vision.
+Specifically I am currently working on (1) generative models with transformers for image generation, (2) video retrieval model with language query amd (3) online video understanding.
+Furthermore, I am interested in 3D vision such as radiance field and also eager to study more on LLM based video understanding!
 
 I will be a M.S. student at the AI Graduate School in [Interdisiplinary Program in Artificial Intelligence at Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023.
 
@@ -67,7 +67,7 @@ GPA: 4.23 / 4.5
 
 #### Story Visualization by Online Text Augmentation with Context Memory
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
-(ICCV 23, to appear)
+(ICCV 23, Paris)
 
 #### A Paper on Video Corpus Moment Retrieval [Double blinded review]
 Daechul Ahn\*, Yura Choi\*, <ins>Daneul Kim</ins>, Jonghyun Choi
