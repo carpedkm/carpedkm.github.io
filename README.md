@@ -67,7 +67,7 @@ GPA: 4.23 / 4.5
 
 #### Story Visualization by Online Text Augmentation with Context Memory
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
-(ICCV 23, Paris)
+(ICCV 23, Paris, To Appear)
 
 #### A Paper on Video Corpus Moment Retrieval [Double blinded review]
 Daechul Ahn\*, Yura Choi\*, <ins>Daneul Kim</ins>, Jonghyun Choi
