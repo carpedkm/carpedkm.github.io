@@ -67,9 +67,9 @@ GPA: 4.23 / 4.5
 
 ### International
 
-#### Story Visualization by Online Text Augmentation with Context Memory
+#### [Story Visualization by Online Text Augmentation with Context Memory](https://arxiv.org/abs/2308.07575)
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
-(ICCV 23, Paris, To Appear)
+(ICCV 23)
 
 ---
 
