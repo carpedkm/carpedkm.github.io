@@ -15,7 +15,7 @@ Furthermore, I am interested in Diffusion models and 3D vision such as radiance 
 
 # Education
 #### Seoul National University
-- (Sep. 2023 - Present) M.S. Student (Advisor: [Jaesik Park](https://jaesik.info/))
+- (Sep. 2023 - Present) M.S. Student in GS AI (IPAI) (Advisor: [Jaesik Park](https://jaesik.info/))
 
 #### Gwangju Institute of Science and Technology
 - (Mar. 2019 - Aug. 2023) B.S. in EECS (Advisor: [Jeany Son](https://jeanyson.github.io/)) \
@@ -26,7 +26,7 @@ Graduated with honors of Magna Cum Laude
 - (Jun. 2021 - Dec. 2021) Exchange Student
 
 
-#### Hankuk Academy of Foreign Studies
+#### Hankuk Academy of Foreign Studies (용인한국외국어대학교부설고등학교)
 - (Mar. 2014 - Feb. 2017) Natural Science Course
 
 ---
