@@ -18,7 +18,7 @@ Furthermore, I am interested in Diffusion models and 3D vision such as radiance 
 - (Sep. 2023 - Present) M.S. Student (Advisor: [Jaesik Park](https://jaesik.info/))
 
 #### Gwangju Institute of Science and Technology
-- (Mar. 2019 - Aug. 2023) B.S. Student (Advisor: [Jeany Son](https://jeanyson.github.io/)) \
+- (Mar. 2019 - Aug. 2023) B.S. in Electrical Engineering and Computer Science (Advisor: [Jeany Son](https://jeanyson.github.io/)) \
 Graduated with honors of Magna Cum Laude
 
 
