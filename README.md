@@ -19,7 +19,7 @@ Furthermore, I am interested in Diffusion models and 3D vision such as radiance 
 
 #### Gwangju Institute of Science and Technology
 - (Mar. 2019 - Aug. 2023) B.S. Student (Advisor: [Jeany Son](https://jeanyson.github.io/)) \
-- Graduated with honors of Magna Cum Laude
+Graduated with honors of Magna Cum Laude
 
 
 #### University of California, Berkeley
