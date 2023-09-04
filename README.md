@@ -2,12 +2,10 @@
 
 [CV](https://drive.google.com/file/d/1p5xkXNV_j_u9ciM4kGcv90zfCxtNA2ur/view?usp=sharing)
 # About
-Hi! I am a senior year B.S. Student at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, advised by [Jonghyun Choi](https://yonseivnl.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and co-advised by [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr).
+Hi! I am a first year M.S. Student at the AI Graduate School in [Interdisiplinary Program in Artificial Intelligence at Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023. I received B.S. degree in EECS at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, advised by [Jonghyun Choi](https://yonseivnl.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and co-advised by [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr).
 Currently, I am focused on multi-modal understanding tasks of vision and language. 
-Specifically I am currently working on (1) generative models with transformers for image generation, (2) video retrieval model with language query, and (3) online video understanding.
-Furthermore, I am interested in 3D vision such as radiance field and also eager to study more on LLM based video understanding!
-
-I will be a M.S. student at the AI Graduate School in [Interdisiplinary Program in Artificial Intelligence at Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023.
+Specifically I am currently working on (1) generative models with transformers for image generation, (2) online video understanding.
+Furthermore, I am interested in Diffusion models and 3D vision such as radiance field and also eager to study more on LLM based video understanding!
 
 ---
 
@@ -17,7 +15,7 @@ I will be a M.S. student at the AI Graduate School in [Interdisiplinary Program 
 
 # Education
 #### Seoul National University
-- (From Sep. 2023) M.S. Student (Advisor: [Jaesik Park](https://jaesik.info/))
+- (Sep. 2023 - Present) M.S. Student (Advisor: [Jaesik Park](https://jaesik.info/))
 
 #### Gwangju Institute of Science and Technology
 - (Mar. 2019 - Aug. 2023) B.S. Student (Advisor: [Jeany Son](https://jeanyson.github.io/)) \
