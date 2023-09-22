@@ -2,7 +2,7 @@
 
 [CV](https://drive.google.com/file/d/1p5xkXNV_j_u9ciM4kGcv90zfCxtNA2ur/view?usp=sharing)
 # About
-Hi! I am a first year M.S. Student at the [AI Graduate School](https://gsai.snu.ac.kr) in [Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023. I obtained a B.S. degree in EECS at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, where I was fortunate to be advised by [Jonghyun Choi](https://yonseivnl.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr).
+Hi! I am a first year M.S. Student at the [Graduate School of Artificial Intelligence](https://gsai.snu.ac.kr) in [Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023. I obtained a B.S. degree in EECS at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, where I was fortunate to be advised by [Jonghyun Choi](https://yonseivnl.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr).
 
 ---
 
