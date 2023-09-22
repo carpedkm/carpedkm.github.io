@@ -30,12 +30,12 @@ Graduated with honors of Magna Cum Laude
 
 # Works
 #### [Vision and Learning Lab](https://yonseivnl.github.io) @ Yonsei University, Seoul
-- (Jan. 2022 - Present) Research Intern
+- (Jan. 2022 - Aug. 2023) Research Intern
 - Working on video-text problems and generative models.
 - Advisor: [Jonghyun Choi](https://ppolon.github.io/)
 
 #### [Visual Recognition and Learning Lab](https://jeanyson.github.io/lab/) @ GIST, Gwangju
-- (Nov. 2022 - Present) Research Intern
+- (Nov. 2022 - Aug. 2023) Research Intern
 - Working on video understanding problems
 - Advisor: [Jeany Son](https://jeanyson.github.io/)
 
