@@ -29,7 +29,7 @@ Graduated with honors of Magna Cum Laude
 ---
 
 # Works
-### [Visual & Geometric Intelligence Lab](https://jaesik.info/) @ Seoul National University, Seoul
+#### [Visual & Geometric Intelligence Lab](https://jaesik.info/) @ Seoul National University, Seoul
 - (Sep. 2023 - Prsent) Research Assistant, Teaching Assistant
 - Working on computer vision problems
 - Advisor: [Jaesik Park](https://jaesik.info/)
