@@ -30,7 +30,7 @@ Graduated with honors of Magna Cum Laude
 
 # Works
 #### [Visual & Geometric Intelligence Lab](https://jaesik.info/) @ Seoul National University, Seoul
-- (Sep. 2023 - Prsent) Research Assistant, Teaching Assistant
+- (Sep. 2023 - Present) Research Assistant, Teaching Assistant
 - Working on computer vision problems
 - Advisor: [Jaesik Park](https://jaesik.info/)
   
@@ -54,7 +54,7 @@ Graduated with honors of Magna Cum Laude
 
 # Honors and Awards
 #### [Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01)
-(Mar. 2021 - Present) 
+(Mar. 2021 - Aug. 2023) 
 - Full tuition and stipend of $5,000 per year. Around 150 students are selected nationally.
 
 #### [Scholarship for Study Abroad Program](https://ipa.gist.ac.kr/ipa/html/sub04/040202.html)
