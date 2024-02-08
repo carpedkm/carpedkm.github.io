@@ -68,11 +68,11 @@ Graduated with honors of Magna Cum Laude
 ### International
 
 #### [Online Generic Event Boundary Detection](https://carpedkm.github.io)
-Hyungrok Jung\*, Daneul Kim\*, Seunggyun Lim, Jeany Son, Jonghyun Choi
+Hyungrok Jung\*, <ins>Daneul Kim</ins>\*, Seunggyun Lim, Jeany Son, Jonghyun Choi
 _(Under Review)_
 
 #### [Pick-or-Mix: Dynamic Channel Sampling for ConvNets](https://carpedkm.github.io)
-Ashish Kumar, Daneul Kim, Jaesik Park, Laxmidhar Behera
+Ashish Kumar, <ins>Daneul Kim</ins>, Jaesik Park, Laxmidhar Behera
 _(Under Review)_
 
 #### [Story Visualization by Online Text Augmentation with Context Memory](https://arxiv.org/abs/2308.07575)
