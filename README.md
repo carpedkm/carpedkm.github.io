@@ -7,6 +7,8 @@ Hi! I am a first year M.S. Student at the [Graduate School of Artificial Intelli
 ---
 
 # News
+#### 2024.02
+- <ins>A paper about deep learning architectures has been accepted [CVPR 2024, Seattle](https://cvpr.thecvf.com/)!</ins>
 #### 2023.07
 - <ins>A paper about generative model has been accepted to [ICCV 2023, Paris](https://iccv2023.thecvf.com/)!</ins>
 
@@ -73,7 +75,7 @@ _(Under Review)_
 
 #### [Pick-or-Mix: Dynamic Channel Sampling for ConvNets](https://carpedkm.github.io)
 Ashish Kumar, <ins>Daneul Kim</ins>, Jaesik Park, Laxmidhar Behera
-_(Under Review)_
+(CVPR 24)
 
 #### [Story Visualization by Online Text Augmentation with Context Memory](https://arxiv.org/abs/2308.07575)
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
