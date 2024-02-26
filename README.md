@@ -8,7 +8,7 @@ Hi! I am a first year M.S. Student at the [Graduate School of Artificial Intelli
 
 # News
 #### 2024.02
-- <ins>A paper about deep learning architectures has been accepted [CVPR 2024, Seattle](https://cvpr.thecvf.com/)!</ins>
+- <ins>A paper about deep learning architectures has been accepted to [CVPR 2024, Seattle](https://cvpr.thecvf.com/)!</ins>
 
 #### 2023.07
 - <ins>A paper about generative model has been accepted to [ICCV 2023, Paris](https://iccv2023.thecvf.com/)!</ins>
