@@ -68,8 +68,6 @@ Graduated with honors of Magna Cum Laude
 
 # Publication
 
-### International
-
 #### [Online Generic Event Boundary Detection](https://carpedkm.github.io)
 Hyungrok Jung\*, <ins>Daneul Kim</ins>\*, Seunggyun Lim, Jeany Son, Jonghyun Choi
 _(Under Review)_
@@ -82,24 +80,5 @@ Ashish Kumar, <ins>Daneul Kim</ins>, Jaesik Park, Laxmidhar Behera
 Daechul Ahn, <ins>Daneul Kim</ins>, Gwangmo Song, Seung Hwan Kim, Dongyeop Kang, Honglak Lee, Jonghyun Choi
 (ICCV 23)
 
----
-
-### Domestic
-
-#### Utilizing External Knowledge in Natural Language Video Localization
-<ins>Daneul Kim</ins>, Daechul Ahn, Jonghyun Choi
-(Journal of KIISE 2022, published)
-
-#### 자연어 기반 비디오 탐색 딥러닝 알고리즘을 위한 데이터 증강 기법
-Daechul Ahn, <ins>Daneul Kim</ins>, Jonghyun Choi
-(KIMST 2021, published)
-
-#### 다양한 기계 학습 기법을 활용한 심근경색 및 뇌졸중의 사례 기반 추론 분석
-<ins>Daneul Kim</ins>, Younghun Kim, Jonghyun Choi
-(KSC 2020, published)
-
-#### Brain MRI Semantic Segmentation Label 품질에 다른 성능의 민감도
-<ins>Daneul Kim</ins>, Younghun Kim, Jonghyun Choi
-(KSC 2020, published)
 
 \* denotes equal contribution
