@@ -68,10 +68,6 @@ Graduated with honors of Magna Cum Laude
 
 # Publication
 
-#### [Online Generic Event Boundary Detection](https://carpedkm.github.io)
-Hyungrok Jung\*, <ins>Daneul Kim</ins>\*, Seunggyun Lim, Jeany Son, Jonghyun Choi
-_(Under Review)_
-
 #### [Pick-or-Mix: Dynamic Channel Sampling for ConvNets](https://carpedkm.github.io)
 Ashish Kumar, <ins>Daneul Kim</ins>, Jaesik Park, Laxmidhar Behera
 (CVPR 24)
