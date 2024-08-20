@@ -8,7 +8,7 @@ Hi! I am a first year M.S. Student at the [Graduate School of Artificial Intelli
 
 # News
 #### 2024.09
-- <ins>Started research internship at [Microsoft Research](https://www.microsoft.com/en-us/research/) Asia, on Video Generative Models.</ins>
+- <ins>Started research internship at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/), on Video Generative Models.</ins>
 
 #### 2024.02
 - <ins>A paper about deep learning architectures has been accepted to [CVPR 2024, Seattle](https://cvpr.thecvf.com/)!</ins>
