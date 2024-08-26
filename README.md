@@ -78,6 +78,14 @@ Graduated with honors of Magna Cum Laude
 
 # Publication
 
+#### [A paper about compositional image synthesis](https://carpedkm.github.io)
+<ins>Daneul Kim</ins>, Jaeah Lee, Jaesik Park
+(Under Review)
+
+#### [A paper about online video understanding](https://carpedkm.github.io)
+Hyungrok Jung\*, <ins>Daneul Kim\*</ins>, Seunggyun Lim, Jeany Son, Jonghyun Choi
+(Under Review)
+
 #### [Pick-or-Mix: Dynamic Channel Sampling for ConvNets](https://carpedkm.github.io)
 Ashish Kumar, <ins>Daneul Kim</ins>, Jaesik Park, Laxmidhar Behera
 (CVPR 24)
