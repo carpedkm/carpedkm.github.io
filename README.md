@@ -52,7 +52,7 @@ Hi! I am a first year M.S. Student at the [Graduate School of Artificial Intelli
 
 #### Gwangju Institute of Science and Technology
 - (Mar. 2019 - Aug. 2023) B.S. in EECS (Advisor: [Jeany Son](https://jeanyson.github.io/)) \
-Graduated with honors of Magna Cum Laude
+Graduated with honors of Magna Cum Laude (Ranked **2nd** in Electrical Engineering and Computer Science)
 
 
 #### University of California, Berkeley
@@ -66,6 +66,11 @@ Graduated with honors of Magna Cum Laude
 ---
 
 # Honors and Awards
+
+#### [Magna Cum Laude](https://carpedkm.github.io)
+(Aug. 2023)
+- Graduation with honors of Magna Cum Laude at Gwangju Institute of Science and Technology.
+
 #### [Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01)
 (Mar. 2021 - Aug. 2023) 
 - Full tuition and stipend of $5,000 per year. Around 150 students are selected nationally.
