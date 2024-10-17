@@ -19,7 +19,7 @@ Hi! I am a first year M.S. Student at the [Graduate School of Artificial Intelli
 ---
 
 # Research Experience
-#### [Visual Computing Group](https://www.microsoft.com/en-us/research/group/internet-media/) @ [Microsoft Research Asia](https://www.microsoft.com/en-us/research/), Beijing
+#### [Visual Computing Group](https://www.microsoft.com/en-us/research/group/visual-computing/) @ [Microsoft Research Asia](https://www.microsoft.com/en-us/research/), Beijing
 - (Sep. 2024 - Present) Research Intern
 - Working on Video Generative Models
 - Advisor: [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/), [Qi Dai](https://daiqi1989.github.i)
