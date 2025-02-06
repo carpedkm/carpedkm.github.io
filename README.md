@@ -1,6 +1,6 @@
 [LinkedIn Profile](https://www.linkedin.com/in/carpedkm/)
 
-[CV](https://drive.google.com/file/d/15wjKeg_M8wibNwfXADxLTVgNfrutzW0p/view?usp=share_link)
+[CV](https://drive.google.com/file/d/1B_akO29dCZQqcbAqiZiHQV3HGMHq8K9U/view?usp=share_link)
 # About
 Hi! I am a first year M.S. Student at the [Graduate School of Artificial Intelligence](https://gsai.snu.ac.kr) in [Seoul National University](https://gsai.snu.ac.kr), advised by [Jaesik Park](https://jaesik.info) starting from fall 2023. I am currently working as a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/), advised by [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/) and [Qi Dai](https://daiqi1989.github.io). I obtained a B.S. degree in EECS at Gwangju Institute of Science and Technology [(GIST)](https://www.gist.ac.kr), South Korea, where I was fortunate to be advised by [Jonghyun Choi](https://yonseivnl.github.io) at [Yonsei University](https://www.yonsei.ac.kr) and [Jeany Son](https://jeanyson.github.io/) at [GIST](https://www.gist.ac.kr). I was also a receipient of presidential scholarship during bachelor's program, which I was awarded scholarship of full tuition and stipend by president of Korea, Republic of.
 
