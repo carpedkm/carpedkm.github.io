@@ -81,7 +81,7 @@ Graduated with honors of Magna Cum Laude (Ranked **2nd** in Electrical Engineeri
 
 ---
 
-# Publication
+# (Selected) Publication
 
 #### [A paper about compositional image synthesis](https://carpedkm.github.io)
 <ins>Daneul Kim</ins>, Jaeah Lee, Jaesik Park
