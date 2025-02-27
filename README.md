@@ -7,6 +7,9 @@ Hi! I am a first year M.S. Student at the [Graduate School of Artificial Intelli
 ---
 
 # News
+#### 2025.02
+- <ins>A paper about image editing in diffusion has been accepted to [CVPR 2025, Nashville](https://cvpr.thecvf.com)! Code and Paper would be released soon.</ins>
+
 #### 2024.09
 - <ins>Started research internship at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/), on Video Generative Models.</ins>
 
